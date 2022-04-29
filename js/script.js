@@ -19,3 +19,4 @@ window.onload = function() {
     document.getElementById("thirdNumber").innerHTML = rand3;
     $('#myNumber').html(rand);
 };
+
