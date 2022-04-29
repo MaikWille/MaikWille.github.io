@@ -1,0 +1,17 @@
+a {
+    font-size: small!important;
+}
+
+.jumbotron-image {
+    background-image: url("/images/Zaehler-kasten.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+}
+
+.exp{visibility: hidden;}
+
+p {
+    font-size: small;
+}
